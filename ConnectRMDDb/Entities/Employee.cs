@@ -5,6 +5,7 @@ using System.Web;
 
 namespace ConnectRMDDb.Entities
 {
+    //table in DB: p_person
     public class Employee
     {
         public string work_on { get; set; }
